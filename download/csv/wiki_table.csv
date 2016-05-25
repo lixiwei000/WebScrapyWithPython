@@ -1,0 +1,78 @@
+Name,Creator,First public release,Latest stable version,Programming language,Cost (US$),Software license,Open source
+Acme,Rob Pike,1993,Plan 9 and Inferno,C,Free,LPL (OSI approved),Yes
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.7,C,Free,BSD,Yes
+Alphatk,Vince Darley,1999,8.3.3,,$40,"Proprietary, with BSD components",No
+Aquamacs,David Reitter,2005,3.1a,"C, Emacs Lisp",Free,GPL,Yes
+Atom,GitHub,2014,1.7.3,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+BBEdit,Rich Siegel,1992-04,11,"Objective-C, Objective-C++",$49.99,Proprietary,No
+Bluefish,Bluefish Development Team,1999,2.2.7,C,Free,GPL,Yes
+Brackets,Adobe Systems,2012,1.6,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+Coda,Panic,2007,2.0.12,Objective-C,$99,Proprietary,No
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,Object Pascal (Delphi),Free,BSD,Yes
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,C++,Free,GPL,Yes
+Diakonos,Pistos,2004,0.9.4,Ruby,Free,MIT,Yes
+E Text Editor,Alexander Stigsen,2005,2.0.2,,$46.95,"Proprietary, with BSD components",No
+ed,Ken Thompson,1970,unchanged from original,C,Free,?,Yes
+EditPlus,Sangil Kim,1998,3.80 (build 961),C++,$35,Shareware,No
+Editra,Cody Precord,2007,0.6.77,Python,Free,wxWindows license,Yes
+EmEditor,"Emurasoft, Inc.",1997,15.7.2,,$39.99 1-user,Shareware,No
+epsilon,Lugaru Software,1984,13.06,C,$250,Proprietary,No
+gedit,GNU Project,2000,2.30.1,C,Free,GPL,Yes
+Geany,Enrico Tröger,2005,1.27,"C, GTK2",Free,GPL,Yes
+GNU Emacs,Richard Stallman,1984,24.5,"C, Emacs Lisp",Free,GPL,Yes
+Gobby,0x539 dev group,2005,0.4.12,C++,Free,GPL,Yes
+JED,John E. Davis,1992,0.99-19,C,Free,GPL,Yes
+jEdit,Slava Pestov,1998 (?),5.3.0,Java,Free,GPL,Yes
+JOE,Joseph Allen,1988,4.1,C,Free,GPL,Yes
+JOVE,Johnathon Payne,1983,4.16,C,Free,GPL,Yes
+Kate,KDE Project,2000-12,3.11.1,C++,Free,GPL,Yes
+KEDIT,"Mansfield Software Group, Inc.",1983,1.6,,$129,Proprietary,No
+Komodo Edit,Activestate,open-sourced 2007,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",Free,"MPL, GPL, LGPL",Yes
+Komodo IDE,Activestate,2001,9.3.2,"Python, JavaScript, Perl, Tcl, PHP, Ruby",$295,Proprietary,No
+KWrite,KDE Project,2000,4.11.1,C++,Free,GPL,Yes
+LE,Alexander V. Lukyanov,1997,1.14.5,C++,Free,GPL,Yes
+Leo,Edward K. Ream,1996,4.11,Python,Free,MIT,Yes
+Light Table,Chris Granger,2012,0.7,ClojureScript,Free,MIT,Yes
+Metapad,Alexander Davidson,1999,3.6,C,Free,GPL,Yes
+mg,Dave Conroy,1986,current,C,Free,Public domain,Yes
+MinEd,Thomas Wolff,1992,2014.24,C,Free,GPL,Yes
+MS-DOS Editor,Microsoft,1991,2.0.026,,"Bundled with MS-DOS, Microsoft Windows",Proprietary,No
+Nano,Chris Allegretta,1999,2.5.3,C,Free,GPL,Yes
+ne,"Sebastiano Vigna, Todd Lewis, Daniele Filaretti",1993,2.6,C,Free,GPL,Yes
+NEdit,Mark Edel,1991,5.5,C,Free,GPL,Yes
+Notepad,Microsoft,1985,6.0,MASM (originally),Bundled with Microsoft Windows,Proprietary,No
+Notepad++,Don Ho,2003-11-25,6.9,C++,Free,GPL,Yes
+Notepad2,Florian Balmer,2004-04,4.2.25,C++,Free,BSD,Yes
+NoteTab,"Eric Fookes, Fookes Software",1995,7.1,Object Pascal (Delphi),"Free, $10 Standard, $20 Pro",Proprietary,No
+nvi,Keith Bostic,?,1.79,C,Free,BSD,Yes
+Peppermint,Ioannis Zafeiropoulos,2014,1.4,"Objective-C, JavaScript",$14.99,Proprietary,No
+Pico,University of Washington,1992,4.64,C,Free,AL2,Yes
+PolyEdit,PolySoft Solutions,1998,5.0 preview release,,$27.95,Shareware,No
+Programmer's Notepad,Simon Steele,1998,2.3,C++,Free,BSD,Yes
+PSPad,Jan Fiala,2002,4.6.0,Object Pascal (Delphi),Free,Proprietary,No
+Q10,Baara Estudio,2007,1.2.21, ?,Free,Proprietary,No
+RJ TextEd,Rickard Johansson,2004,8.42,Object Pascal (Delphi),Free,Proprietary,No
+RText,Fifesoft,2003,1.1.0,Java,Free,BSD,Yes
+Sam,Rob Pike,early 1980s,stable,C,Free,LPL (OSI approved),Yes
+SciTE,Neil Hodgson,1999,3.6.4,C++,$41.99 for OS X. free for others,HPND,Yes
+skEdit,"Sean Kelly, skti",2002,3.6.1,,$24.95 for lifetime,Proprietary,No
+SlickEdit,"SlickEdit, Inc.",1988,19.0.0,"C, Slick-C",$299,Proprietary,No
+Smultron,Peter Borg,2004,3.8,Objective-C,$5,Proprietary,No
+Source Insight,Source Dynamics, ?,3.50.0072,Source Insight macro language,$239-$255,Proprietary,No
+SubEthaEdit,TheCodingMonkeys,2003,3.5.2 (3294),,$35 commercial use,Proprietary,No
+Sublime Text,Jon Skinner,2008,2.0.2,"C++, Objective-C++ (OS X version), Python",$70,Proprietary,No
+TED Notepad,Juraj Simlovic,2001,5.4.2,C,Free,Freeware,No
+Textadept,Mitchell,2007,7.5,"C, Lua",Free,MIT,Yes
+TextEdit,Apple Inc.,2001,1.11,,Free (also bundled with OS X),New BSD,Yes
+TextMate,MacroMates,2004-10-10,1.5.11,Objective-C++,$53 (€39),"Proprietary, with MIT components. Version 2 released under GPLv3",Yes (from version 2)
+TextPad,Helios Software Solutions,1992,8.0.1,,$30.00 (£16.50),Shareware,No
+TextWrangler,Bare Bones Software,2003,4.5.5,,Free,Proprietary,No
+The SemWare Editor,Sammy Mitchell,1985-11,4.4,"C, SAL",$99,Proprietary,No
+Tincta,Mr. Fridge Software,2011,2.0,Objective-C,Free,Proprietary,No
+UltraEdit,IDM Computer Solutions,1994,23.00,C++,$79.95,Proprietary,No
+VEDIT,"Ted Green, Greenview Data",1980,6.21,"Assembly, C","$89 standard, $239 Pro64",Proprietary,No
+vi,Bill Joy,1976,3.7,C,Free,BSD or CDDL,Yes
+Vim,Bram Moolenaar,1991,7.4,"C, Vim script",Free,GPL compatible,Yes
+Xeditor,appsoft Technologies GmbH,2013,2,"Webbased, JavaScript",starts at $3250,Proprietary,No
+XEmacs,Lucid Inc.,1991,21.4.22,"C, Emacs Lisp",Free,GPL,Yes
+Yi,Don Stewart,2005,0.8.1,Haskell,Free,GPL,Yes
